@@ -1,0 +1,48 @@
+.bg-container{
+    background-image: url("https://img.freepik.com/free-photo/top-view-bullet-journal-still-life_23-2150360024.jpg?w=360&t=st=1699684831~exp=1699685431~hmac=3f4321dfe35adda2e5e63cf9ec7be690591c121b5621070068b6e60cbee9ac31");
+    background-size: cover;
+    font-family: Roboto;
+    height: 100vh;
+}
+.card{
+    text-align: center;
+    color: white;
+}
+.main-heading{
+    font-size: 40px;
+    color: blue;
+}
+.paragraph{
+    padding: 10px;
+    font-size: 30px;
+    color: red;
+}
+.paragraph1{
+    color: black;
+    font-size: 40px;
+    font-weight: bold;
+    padding: 5px;
+}
+.paragraph2{
+    color: white;
+    font-size: 25px;
+    padding: 1px;
+}
+.buttton{
+    background-color: rgb(17, 15, 10);
+    color: white;
+    font-weight: bold;
+    font-size: 25px;
+    height: 45px;
+    width: 90px;
+    border-width: 5px;
+}
+.paragraph3{
+    font-size: 20px;
+    font-weight: 500;
+    text-decoration: underline;
+    color: rgb(129, 47, 223);
+}
+.card1{
+    text-align: center;
+}

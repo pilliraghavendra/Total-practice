@@ -1,0 +1,214 @@
+.custom-outline-button{
+    text-align: center;
+    width: 150px;
+    height: 60px;
+    color: #d0b200;
+    background-color: transparent;
+    border-width: 1px;
+    border-style: solid;
+    border-color: #d0b200;
+    border-radius: 8px;
+    font-size: 25px;
+    
+}
+.custom-button{
+    text-align: center;
+    font-size: 20px;
+    width: 150px;
+    height: 60px;
+    color: white;
+    background-color: #d0b200;
+    border-width: 0;
+    border-radius: 8px;
+    margin-right: 10px;
+}
+.banner-caption{
+   text-align: center;
+    color: #f5f7fa;
+    font-family: "Roboto";
+    font-size: 35px;
+    font-weight: 300;
+}
+.banner-heading{
+    text-align: center;
+    color: yellow;
+    font-family: "Roboto";
+    font-size: 50px;
+    font-weight: 300;
+}
+.banner-section-bg-container{
+    background-image:url("https://img.freepik.com/free-photo/indian-butter-chicken-black-bowl-black-background_123827-20757.jpg?w=740&t=st=1699790845~exp=1699791445~hmac=58d97a451715b7c1379a1ee5a9dca4531a671799e2a7831bac0acf154752ce06") ;
+    background-size:900;
+    height: 100vh;
+}
+.food-much-logo{
+    width: 80px;
+    height: 70px;
+}
+#navItem1{
+    color: #323f4b;
+    font-family: "Roboto";
+}
+#navItem2{
+    color: #323f4b;
+    font-family: "Roboto";
+}
+#navItem3{
+    color: #323f4b;
+    font-family: "Roboto";
+}
+#navItem4{
+    color: #323f4b;
+    font-family: "Roboto";
+}
+.wcu-card-description{
+    font-family: "Roboto";
+    font-size: 20px;
+    color: #0983e0;
+}
+.wcu-card-title{
+    font-family: "Roboto";
+    font-weight: 500;
+    font-size: 28px;
+    color:red;
+}
+.wcu-card-image{
+    height: 90px;
+    width: 40px;
+}
+.wcu-card{
+    background-color: white;
+    text-align: center ;
+    border-style: solid;
+    border-width: 15px;
+    border-color: #e5eaf4;
+    border-radius: 20px;
+}
+.wcu-section-description{
+    font-family: "Roboto";
+    font-size: 25px;
+    color: rgb(50, 226, 11), 132, 90);
+}
+.wcu-section-heading{
+    font-family: "Roboto";
+    font-weight: 700;
+    font-size: 35px;
+    color: #183b56;
+}
+.wcu-section{
+    background-color: #f9fbfe;
+}
+.menu-item-card{
+    border-radius: 20px;
+}
+.menu-item-link{
+    color: #d0b200;
+    font-family: roboto;
+    font-size: 16px;
+    font-weight: 500;
+}
+.menu-card-title{
+    color:rgb(192, 7, 7), 0, 0);
+    font-family: roboto;
+    font-size: 20px;
+    font-weight: 550;
+    margin-top: 28px;
+}
+.menu-item-image{
+    border-radius: 20px;
+    width: 290px;
+    height: 300px;
+}
+.explore-menu-section-heading{
+    font-family: "Roboto";
+    font-size: 30px;
+    font-weight: 800;
+    color: rgb(90, 90, 179);
+}
+.explore-menu-section{
+    background-color: white;
+}
+.healthy-food-section{
+    background-color: #f9fbfe;
+}
+.healthy-food-section-img{
+    width: 300px;
+}
+.healthy-food-section-heading{
+    color: #183b56;
+    font-family: roboto;
+    font-size: 30px;
+    font-weight: 800;
+}
+.healthy-food-section-description{
+    color: #5a7184;
+    font-family: roboto;
+    font-size: 20px;
+}
+.custom-button{
+    color: white;
+    background-color: #d0b200;
+    width: 150px;
+    height: 55px;
+    border-width: 0;
+    border-radius: 8px;
+    margin-right: 12px;
+}
+.delivery-and-payment-section {
+    background-color: white;
+  }
+  .delivery-and-payment-section-img {
+    width: 270px;
+  }
+  .delivery-and-payment-section-heading {
+    color: #183b56;
+    font-family: "Roboto";
+    font-size: 28px;
+    font-weight: 700;
+  }
+  .delivery-and-payment-section-description {
+    color: #5a7184;
+    font-family: "Roboto";
+    font-size: 16px;
+  }
+  .payment-card-img {
+    width: 50px;
+    height: 50px;
+    margin-right: 28px;
+  }
+  .custom-button {
+    color: white;
+    background-color: #d0b200;
+    width: 130px;
+    height: 45px;
+    border-width: 0;
+    border-radius: 8px;
+    margin-right: 10px;
+  }
+  .thanking-customers-section {
+    background-color: #d0b2001a;
+  }
+  .thanking-customers-section-heading {
+    color: #183b56;
+    font-family: "Roboto";
+    font-size: 28px;
+    font-weight: 700;
+  }
+  .thanking-customers-section-description {
+    color: #5a7184;
+    font-family: "Roboto";
+    font-size: 16px;
+  }
+  .thanking-customers-section-img {
+    width: 270px;
+    margin-bottom: 20px;
+  }
+  .custom-button {
+    color: white;
+    background-color: #d0b200;
+    width: 130px;
+    height: 45px;
+    border-width: 0;
+    border-radius: 8px;
+    margin-right: 10px;
+  }

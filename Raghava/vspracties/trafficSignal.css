@@ -1,0 +1,27 @@
+.bg-container {
+    background-color: #86d2f2;
+    height: 100vh;
+}
+
+.button {
+    width: 80px;
+    height: 50px;
+    border-radius: 10px;
+    border-width: 0px;
+    background-color: #4b5069;
+    color: #ffffff;
+}
+
+.card {
+    width: 80px;
+    height: 270px;
+    background-color: #1f1d41;
+    border-radius: 30px;
+}
+
+.light1 {
+    width: 50px;
+    height: 50px;
+    border-radius: 30px;
+    background-color: #4b5069;
+}

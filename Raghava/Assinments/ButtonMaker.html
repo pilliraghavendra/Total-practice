@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="ButtonMaker.css">
+</head>
+<body>
+    <script src="ButtonMaker.js"></script>
+    <div class="button-maker-bg-container p-4">
+        <h1 class="button-maker-heading text-center mb-4">Button Maker</h1>
+        <div class="button-maker-container bg-light pt-4 pb-4">
+            <div class="container">
+                <div class="row">
+                    <div class="col-12 col-md-7">
+                        <p class="input-label">BACKGROUND COLOR</p>
+                        <input class="user-input" type="text" id="bgColorInput" />
+                        <p class="input-label">FONT COLOR</p>
+                        <input class="user-input" type="text" id="fontColorInput" />
+                        <p class="input-label">FONT SIZE (in px)</p>
+                        <input class="user-input" type="text" id="fontSizeInput" />
+                        <p class="input-label">FONT WEIGHT</p>
+                        <input class="user-input" type="text" id="fontWeightInput" />
+                        <p class="input-label">PADDING (in px)</p>
+                        <input class="user-input" id="paddingInput" type="text" />
+                        <p class="input-label">BORDER RADIUS (in px)</p>
+                        <input class="user-input" type="text" id="borderRadiusInput" />
+                        <div class="text-right mt-4">
+                            <button id="applyButton" class="btn btn-primary" onclick="apply()">
+                                Apply
+                            </button>
+                        </div>
+                    </div>
+                    <div class="col-12 col-md-5 mt-4 text-center">
+                        <button class="custom-button" id="customButton">Custom Button</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+</body>
+</html>

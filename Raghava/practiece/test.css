@@ -1,0 +1,29 @@
+.bg-container{
+    background-image: url("https://img.freepik.com/free-photo/gourmet-bowl-with-healthy-rice-meat-vegetables-generated-by-ai_188544-14076.jpg?t=st=1699606882~exp=1699610482~hmac=d13bd98e18670570264a09b8c5a02a39899baa0421ddc2064ab8c7ebbb110210&w=740");
+  height: 100vh;
+  background-size: cover;
+}
+.tiffin-card{
+    background-color: #f6c56e;
+    text-align: center;
+    border-top-right-radius: 25px;
+    border-bottom-left-radius: 25px;
+    padding: 5px;
+}
+.main-heading{
+    color: #323f4b;
+    font-size: 40px;
+    font-family: Bree Serif;
+}
+.paragraph{
+    font-family: Roboto;
+    font-size: 20px;
+    color:#323f4b ;
+}
+.button{
+    height: 36px;
+    width: 138px;
+    background-color: #ffff;
+    border-radius: 20px;
+    border-width: 0px;
+}

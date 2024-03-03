@@ -1,0 +1,83 @@
+.image {
+    width: 50%;
+}
+
+.heading {
+    font-size: 30px;
+}
+
+.title {
+    color: #323f4b;
+}
+
+.paragraph {
+    color: #959ead;
+}
+.container1 {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/vr-products-headset-img.png");
+    height: 0;
+    background-size: cover;
+}
+
+.container2 {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/vr-products-headset-with-controllers-img.png");
+    height: 80vh;
+    background-size: cover;
+}
+
+.heading {
+    color: #ffffff;
+}
+
+.paragraph {
+    color: #ffffff;
+
+}
+
+.button {
+    border-radius: 5px;
+    width: 120px;
+    height: 40px;
+    background-color: transparent;
+    border-color: #ffffff;
+    color: #ffffff;
+}
+.Features-heading {
+    font-size: 30px;
+    color: #1f2933;
+}
+
+.Features-contaner {
+    padding: 20px;
+}
+
+.image {
+    height: 60px;
+    width: 60px;
+}
+
+.title-heading {
+    font-size: 24px;
+    font-weight: 450;
+}
+
+.paragraph {
+    color: #7b8794;
+}
+.vr-kit-heading {
+    font-size: 30px;
+    color: #1f2933;
+}
+
+.image {
+    width: 150px;
+    height: 200px;
+}
+
+.container1 {
+    background-color: #f9fbfe;
+}
+
+.paragraph {
+    color: #323f4b;
+}
